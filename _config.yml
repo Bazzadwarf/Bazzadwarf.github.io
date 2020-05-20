@@ -61,25 +61,25 @@ author:
   bio    : "My ramblings in 140 characters or more."
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/bazzadwarf"
     - label: "Gitlab"
-      icon: "fab fa-fw fa-gitlab"
+      icon: "fab fa-gitlab"
       url: "https://gitlab.com/bazzadwarf"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/louis-hobbs/"
 
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/bazzadwarf"
     - label: "Gitlab"
-      icon: "fab fa-fw fa-gitlab"
+      icon: "fab fa-gitlab"
       url: "https://gitlab.com/bazzadwarf"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/louis-hobbs/"
 
 

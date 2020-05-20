@@ -20,5 +20,5 @@ If you want to get in touch with me, **the best way to do so is via [email](mail
 **LinkedIn Profile**: louis-hobbs
 {: style="text-align: center;"}
 
-[<i class="fab fa-linkedin"></i> LinkedIn](mailto:buisness@louishobbs.com){: .btn .btn--primary .btn--large}
+[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/louis-hobbs/){: .btn .btn--primary .btn--large}
 {: style="text-align: center;"}

@@ -21,7 +21,7 @@ twitter_username: bazzadwarf
 github_username: bazzadwarf
 minimal_mistakes_skin: mint
 search: true
-
+repository: Bazzadwarf/Bazzadwarf.github.io
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
@@ -91,10 +91,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"

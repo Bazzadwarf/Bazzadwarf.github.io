@@ -21,14 +21,13 @@ I am currently in the process of planning all the changes that will be applied t
 
 Once a build is available, it will be made available here and on other platforms!
 
-
-
 ### Demo
 
 If you wanted to play the version we showcased at the Games@Derby Expo 2019 you can download a copy of the demo below!
 
 [<i class="fas fa-download"></i> Download Game! (Windows Only)](https://drive.google.com/uc?export=download&id=1RpPXbu4F-f86DM3pq-PRVSVuokW6b0-E){: .btn .btn--primary .btn--large}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v5kYVwh9sC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Credits
 
 The inital version of Infernal Sin was created as part of Digital Imp Studios.

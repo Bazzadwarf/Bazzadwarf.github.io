@@ -1,10 +1,6 @@
 ---
 title: ""
-excerpt: " 
- 
- 
- 
- "
+
 categories:
   - Game
 tags:

@@ -1,35 +1,41 @@
 ---
-title: " "
-excerpt: "⠀
-⠀
-⠀
-⠀
-⠀"
+title: ""
+excerpt: " 
+ 
+ 
+ 
+ "
 categories:
-  - games
+  - Game
 tags:
-  - infernal sin
-  - game
-layout: splash
+  - Game
+
 permalink: /infernal-sin/
-header:
-    overlay_color: "#000"
-    overlay_filter: 0
-    overlay_image: /assets/images/infernalsinlogo.png
 ---
 
-# Infernal Sin
+![Infernal Sin Logo](/assets/images/infernalsinlogo.png)
 
 A Souls-Like Hack-n-Slash with Bullet-hell elements. Created as part of Digital Imp Studios.
 
-## Links
+## What is this project?
 
-[<i class="fas fa-download"></i> Download Game! (Windows Only)](#templink){: .btn .btn--primary .btn--large} [<i class="fas fa-file-download"></i> View  Design Doc!](#templink){: .btn .btn--primary .btn--large}
-{: style="text-align: center;"}
+Infernal Sin was originally created as part of a *Game Development* module as part of my degree, this project intends to rewrite part of the code base into a more presentable manner as well as changing a number of key game play mechanics to make it more fun to play.
 
-## Description
+I am currently in the process of planning all the changes that will be applied to the game.
 
-## The Team / Digital Imp Studios
+Once a build is available, it will be made available here and on other platforms!
+
+
+
+### Demo
+
+If you wanted to play the version we showcased at the Games@Derby Expo 2019 you can download a copy of the demo below!
+
+[<i class="fas fa-download"></i> Download Game! (Windows Only)](https://drive.google.com/uc?export=download&id=1RpPXbu4F-f86DM3pq-PRVSVuokW6b0-E){: .btn .btn--primary .btn--large}
+
+## Credits
+
+The inital version of Infernal Sin was created as part of Digital Imp Studios.
 
 ### Creative Leads
 
@@ -53,6 +59,4 @@ A Souls-Like Hack-n-Slash with Bullet-hell elements. Created as part of Digital 
 * Louis Hobbs [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/louis-hobbs/) [<i class="fab fa-gitlab"></i>](https://gitlab.com/bazzadwarf) [<i class="fab fa-github"></i>](https://github.com/bazzadwarf)
 * Liam Potter [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/byte-warlock/) [<i class="fab fa-gitlab"></i>](https://gitlab.com/byte-warlock) [<i class="fab fa-github"></i>](https://github.com/byte-warlock)
 
----
-
-<a href="/assets/images/infernalsinspread.png"><img src="/assets/images/infernalsinspread.png"></a>
+![Digital Imp Studios Logo](/assets/images/digitalimpstudiossource.png)

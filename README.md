@@ -10,6 +10,6 @@ Plans are under way to extend the use of the website in other areas as well, but
 
 ## License
 
-This repository incorporates the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes) created by [Michael Rose](https://mademistakes.com/) disstributed under the [MIT License](https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE).
+This repository incorporates the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes) created by [Michael Rose](https://mademistakes.com/) distributed under the [MIT License](https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE).
 
 Please see the [license file](https://github.com/Bazzadwarf/Bazzadwarf.github.io/blob/master/LICENSE) for the licensing information of this repository.

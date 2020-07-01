@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Louis Hobbs"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My ramblings in 140 characters or more."
+  bio    : "Aspiring Game Developer and Designer.<br><br>Computer Games Programming graduate from the University of Derby Class of 2020."
   links:
     - label: "GitHub"
       icon: "fab fa-github"

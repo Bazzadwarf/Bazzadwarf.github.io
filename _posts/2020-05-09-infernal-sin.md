@@ -34,7 +34,7 @@ The inital version of Infernal Sin was created as part of Digital Imp Studios.
 
 ### Creative Leads
 
-* Louis Hobbs [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/louis-hobbs)
+* Louis Hobbs [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/louis-hobbs/) [<i class="fab fa-gitlab"></i>](https://gitlab.com/bazzadwarf) [<i class="fab fa-github"></i>](https://github.com/bazzadwarf)
 * Thomas Greasley [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/thomas-greasley) [<i class="fab fa-artstation"></i>](https://www.artstation.com/emperor339)
 
 ### Art Team

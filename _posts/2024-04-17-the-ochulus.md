@@ -11,7 +11,7 @@ tags:
 permalink: /the-ochulus/
 ---
 
-![The Ochulus Logo](/assets/images/theochuluslogominimal.png)
+![The Ochulus Logo](/assets/images/TheOchulusLogoMinimal.png)
 
 *The Ochulus is a Bot for Discord, used for tracking and searching games.*
 

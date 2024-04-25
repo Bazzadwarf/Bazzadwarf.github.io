@@ -2,7 +2,6 @@
 title: "Contact Details"
 permalink: /contact/
 layout: single
-author_profile: false
 ---
 
 If you want to get in touch with me, **the best way to do so is via [email](mailto:business@louishobbs.com)**. If email is not your preferred method of contact, I am also available via my [LinkedIn profile](https://www.linkedin.com/in/louis-hobbs/)! I will attempt to reply to any messages in a timely manner. 

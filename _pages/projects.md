@@ -28,7 +28,7 @@ feature_row:
     - image_path: /assets/images/papercutlogo.png
       alt: "placeholder image 3"
       title: "Paper Cut"
-      excerpt: "Paper Cut is a high-speed ichigeki hissatsu *(One Hit kill)* brawler"
+      excerpt: "Paper Cut is a high-speed ichigeki hissatsu *(One Hit kill)* brawler."
       url: "/paper-cut/"
       btn_label: "Read More"
       btn_class: "btn--primary"
@@ -40,6 +40,13 @@ feature_row2:
       excerpt: "While in my last year at University, I worked on an Immersive Realities Research Project between The University of Derby and Amey Consulting as a Unity Developer creating a VR CAD Model Viewer."
 
 feature_row3:
+    - image_path: /assets/images/osu-rank-one.png
+      alt: "History of osu! Rank 1"
+      title: "History of osu! Rank 1"
+      excerpt: "During the first half of 2021, I lead a project to create the definative timeline of players who had reached rank 1 on the global ranking leaderboard in the video game osu! using historical data to model day by day leaderboards."
+      url: "/osu-rank-one/"
+      btn_label: "Read more"
+      btn_class: "btn--primary"
     - image_path: /assets/images/aoc2020.png
       alt: "Advent of Code 2020 Logo"
       title: "Advent of Code 2020"
@@ -75,7 +82,27 @@ feature_row3:
       url: https://github.com/Bazzadwarf/Bazzadwarf.github.io
       btn_label: "View Github Repo"
       btn_class: "btn--primary"
+
+feature_row4:
+    - image_path: /assets/images/nakatomilogo.png
+      alt: "Nakatomi Logo"
+      title: "Nakatomi"
+      excerpt: "Nakatomi is a third-person shooter with destructive objects in a liminal environment."
+      url: "/nakatomi/"
+      btn_label: "Read more"
+      btn_class: "btn--primary"
+    - image_path: /assets/images/TheOchulusLogo.png
+      alt: "The Ochulus Logo"
+      title: "The Ochulus"
+      excerpt: "The Ochulus is a Bot for Discord, used for tracking and searching games."
+      url: "/the-ochulus/"
+      btn_label: "Read more"
+      btn_class: "btn--primary"
 ---
+
+## Recent Projects
+
+{% include feature_row type='right' id="feature_row4" %}
 
 ## Games
 
@@ -87,6 +114,6 @@ feature_row3:
 
 ## Misc Projects
 
-Other bits and bobs that I have created that don't have a home.
+A collection of projects that I have worked on in my spare time.
 
 {% include feature_row type='left' id="feature_row3" %}

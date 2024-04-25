@@ -24,6 +24,7 @@ For the creation of Infernal Sin, I served as a Co-Creative Lead for the project
 You can find a copy of our Games@Derby Expo 2019 showcase below!
 
 [<i class="fas fa-download"></i> Download Game! (Windows Only)](https://drive.google.com/uc?export=download&id=1RpPXbu4F-f86DM3pq-PRVSVuokW6b0-E){: .btn .btn--primary .btn--large}
+[<i class="fab fa-gitlab"></i> View Source Code](https://gitlab.com/Bazzadwarf/pi){: .btn .btn--primary .btn--large}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v5kYVwh9sC0?si=cmpi7Xd-aWJGwX6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>

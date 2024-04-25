@@ -26,3 +26,5 @@ My role in this was as project lead. Most of my efforts were in gathering and pr
 [<i class="fa fa-table"></i> View Research Documents](https://drive.google.com/drive/folders/10h2T5AT8XOpEPfb087CiFCs1amv9842t?usp=drive_link){: .btn .btn--primary .btn--large}.
 
 [<i class="fa fa-table"></i> View Wiki Page](https://osu.ppy.sh/wiki/en/History_of_osu%21/Online_rankings/osu%21){: .btn .btn--primary .btn--large}
+
+![estimated reconstruction of the Ranked Score global leaderboard](/assets/images/osurankonegraph.png)

@@ -28,7 +28,7 @@ feature_row:
     - image_path: /assets/images/papercutlogo.png
       alt: "placeholder image 3"
       title: "Paper Cut"
-      excerpt: "Paper Cut is a high-speed ichigeki hissatsu *(One Hit kill)* brawler"
+      excerpt: "Paper Cut is a high-speed ichigeki hissatsu *(One Hit kill)* brawler."
       url: "/paper-cut/"
       btn_label: "Read More"
       btn_class: "btn--primary"

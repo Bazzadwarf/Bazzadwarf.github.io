@@ -48,6 +48,12 @@ During my time at Confetti, I completed a BTEC in Games Development, covering to
 
 ### Work Experience
 
+#### INFINITY27 — *2024*
+
+**[Unreal Engine Developer Skills Bootcamp](/infinity27/)** *(Internship)*
+
+With INFINITY27, I developed a spell for the game Samsara by INFINITY27, a Unreal Authorized Training Centre. as part of their Unreal Engine Developer Skills Bootcamp. Created flowcharts, UML class diagrams, and prototypes implemented in Blueprint and C++. Participated in daily scrum meetings, wrote documentation, conducted game testing, used Perforce source control and gave a presentation coving my spell.
+
 #### Chameleon Design and Print Ltd — *2023*
 
 **Assistant**

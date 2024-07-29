@@ -84,6 +84,13 @@ feature_row3:
       btn_class: "btn--primary"
 
 feature_row4:
+    - image_path: /assets/images/infinity27.png
+      alt: "Infinity27 Logo"
+      title: "Infinity27 Unreal Engine Developer Skills Bootcamp"
+      excerpt: "During my participation in the Skills Bootcamp, I created a spell for the game Samsara in Unreal Engine 5, using both Blueprints and C++."
+      url: "/infinity27/"
+      btn_label: "Read more"
+      btn_class: "btn--primary"
     - image_path: /assets/images/nakatomilogo.png
       alt: "Nakatomi Logo"
       title: "Nakatomi"

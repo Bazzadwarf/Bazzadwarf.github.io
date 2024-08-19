@@ -24,7 +24,7 @@ For the creation of Infernal Sin, I served as a Co-Creative Lead for the project
 You can find a copy of our Games@Derby Expo 2019 showcase below!
 
 [<i class="fab fa-itch-io"></i> Visit the itch.io page! (Windows Only)](https://bazzadwarf.itch.io/infernal-sin){: .btn .btn--primary .btn--large}
-[<i class="fab fa-gitlab"></i> View Source Code](https://gitlab.com/Bazzadwarf/pi){: .btn .btn--primary .btn--large}
+[<i class="fab fa-github"></i> View Source Code](https://github.com/Bazzadwarf/infernal-sin){: .btn .btn--primary .btn--large}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v5kYVwh9sC0?si=cmpi7Xd-aWJGwX6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
@@ -36,7 +36,7 @@ Infernal Sin was created as part of Digital Imp Studios.
 
 ### Creative Leads
 
-* Louis Hobbs [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/louis-hobbs/) [<i class="fab fa-gitlab"></i>](https://gitlab.com/bazzadwarf) [<i class="fab fa-github"></i>](https://github.com/bazzadwarf)
+* Louis Hobbs [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/louis-hobbs/) [<i class="fab fa-github"></i>](https://github.com/bazzadwarf)
 * Thomas Greasley [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/thomas-greasley) [<i class="fab fa-artstation"></i>](https://www.artstation.com/emperor339)
 
 ### Art Team
@@ -48,12 +48,12 @@ Infernal Sin was created as part of Digital Imp Studios.
 
 ### Programming Team
 
-* Ethan Audley [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ethan-audley-2a0582142/) [<i class="fab fa-gitlab"></i>](https://gitlab.com/EthanAudley)
-* Jack Audley  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jack-audley-096025189/) [<i class="fab fa-gitlab"></i>](https://gitlab.com/AudleyJack)
-* Zachary Brett [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zachary-brett/) [<i class="fab fa-gitlab"></i>](https://gitlab.com/oniisama) [<i class="fab fa-github"></i>](https://github.com/momijisama)
-* Amy Deeble [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/amy-deeble-8b2a3a1a5) [<i class="fab fa-gitlab"></i>](https://gitlab.com/Deebs17) [<i class="fab fa-github"></i>](https://github.com/Deebs17)
-* Piotr Guzowski [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/piotr-guzowski-a35622132) [<i class="fab fa-gitlab"></i>](https://gitlab.com/guuzen)
-* Louis Hobbs [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/louis-hobbs/) [<i class="fab fa-gitlab"></i>](https://gitlab.com/bazzadwarf) [<i class="fab fa-github"></i>](https://github.com/bazzadwarf)
-* Liam Potter [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/byte-warlock/) [<i class="fab fa-gitlab"></i>](https://gitlab.com/byte-warlock) [<i class="fab fa-github"></i>](https://github.com/byte-warlock)
+* Ethan Audley [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ethan-audley-2a0582142/)
+* Jack Audley  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jack-audley-096025189/)
+* Zachary Brett [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zachary-brett/) [<i class="fab fa-github"></i>](https://github.com/momijisama)
+* Amy Deeble [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/amy-deeble-8b2a3a1a5) [<i class="fab fa-github"></i>](https://github.com/Deebs17)
+* Piotr Guzowski [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/piotr-guzowski-a35622132)
+* Louis Hobbs [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/louis-hobbs/) [<i class="fab fa-github"></i>](https://github.com/bazzadwarf)
+* Liam Potter [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/byte-warlock/) [<i class="fab fa-github"></i>](https://github.com/byte-warlock)
 
 ![Digital Imp Studios Logo](/assets/images/digitalimpstudiossource.png)

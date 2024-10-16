@@ -48,6 +48,12 @@ During my time at Confetti, I completed a BTEC in Games Development, covering to
 
 ### Work Experience
 
+#### University of Staffordshire — *2024-Present*
+
+**Part-Time Games Tech Lecturer**
+
+I recently accepted a part-time lecturer position at the Staffordshire Games Institute, University of Staffordshire. My current responsibilities include assisting in teaching C++ and Unreal Engine 5 to first and second year students.
+
 #### INFINITY27 — *2024*
 
 **[Unreal Engine Developer Skills Bootcamp](/infinity27/)** *(Internship)*

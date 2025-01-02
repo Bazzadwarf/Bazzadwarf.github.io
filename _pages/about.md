@@ -52,7 +52,7 @@ During my time at Confetti, I completed a BTEC in Games Development, covering to
 
 **Part-Time Games Tech Lecturer**
 
-I recently accepted a part-time lecturer position at the Staffordshire Games Institute, University of Staffordshire. My current responsibilities include assisting in teaching C++ and Unreal Engine 5 to first and second year students.
+I recently accepted a part-time lecturer position at the Staffordshire Games Institute, part of the University of Staffordshire. My current responsibilities include providing in-person support to students by answering questions, clarifying concepts, and guiding them through their learning journey. Additionally, I present demonstrations on key topics. My areas of focus currently include C++, C#, Unreal Engine 5, and Unity 6.
 
 #### INFINITY27 — *2024*
 

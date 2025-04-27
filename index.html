@@ -11,13 +11,13 @@ header:
     actions:
     - label: "About Me"
       url: about/index.html
-    - label: "Contact "
-      url: /contact/
-    - label: "CV"
-      url: https://drive.google.com/file/d/1F-TqB-PtXkNAZk6BL4TOnSfvsiz5nyXj/view
     - label: "My Projects"
       url: /projects/
-excerpt: "Games Programmer, Part-Time Games Tech Lecturer <br>
+    - label: "CV"
+      url: https://drive.google.com/file/d/1F-TqB-PtXkNAZk6BL4TOnSfvsiz5nyXj/view
+    - label: "Contact "
+      url: /contact/
+excerpt: "Games Programmer<br>Games Design Tech Lecturer, 
 University of Staffordshire"
 
 feature_row:
@@ -42,8 +42,35 @@ feature_row:
       url: "/the-ochulus/"
       btn_label: "Read More"
       btn_class: "btn--primary"
+
+feature_row2: 
+    - image_path: /assets/images/staffslogo.png
+      alt: "University of Staffordshire Logo"
+      title: "Universty of Staffordshire"
+      excerpt: "Part-Time Games Design Tech Lecturer."
+      url: "/infernal-sin/"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+    - image_path: /assets/images/infinity27.png
+      alt: "infinity27 Logo"
+      title: "Infinity27"
+      excerpt: "A skills bootcamp on Unreal Engine 5 creating content for Samsara."
+      url: "/infinity27/"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+    - image_path: /assets/images/uodameyconsulting.png
+      alt: "The University of Derby and Amey Consulting Logo"
+      title: "University of Derby"
+      excerpt: "Unity Software Developer for a Immersive Realities research project."
+      url: "/the-ochulus/"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
 ---
 
 <h2>Recent Projects</h2>
 
 {% include feature_row %}
+
+<h2>Recent Experience</h2>
+
+{% include feature_row id="feature_row2" %}
